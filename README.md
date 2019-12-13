@@ -5,7 +5,7 @@ This project attempts to generate stories from images. It achieves this by combi
 ### Models Used
 
 | Task                | Technique                       |
-| ------------------- |:-------------------------------:|
+| ------------------- | :------------------------------:|
 | Face Detection      | MTCNN                           |
 | Face Recognition    | ResNet-50 (trained on VGGFace2) |
 | Object Detection    | VGG16 (trained on ImageNet)     |
@@ -21,7 +21,7 @@ This project attempts to generate stories from images. It achieves this by combi
 
 #### Sample Story 1
 
-![Example 1](screens/Example1.png)
+![Example 1](screens/Example4.png)
 
 #### Sample Story 2
 
