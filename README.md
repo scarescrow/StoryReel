@@ -15,14 +15,18 @@ This project attempts to generate stories from images. It achieves this by combi
 
 ### Flow Diagram
 
-![Flow Diagram](screens/ExampleFlow.png)
+![Flow Diagram](assets/ExampleFlow.png)
+
+### Report and Poster
+
+The report is uploaded [here](assets/Report.pdf), and a poster demonstrating the project is uploaded [here](assets/Poster.pdf). 
 
 ### Sample Outputs
 
 #### Sample Story 1
 
-![Example 1](screens/Example4.png)
+![Example 1](assets/Example4.png)
 
 #### Sample Story 2
 
-![Example 1](screens/Example2.png)
+![Example 1](assets/Example2.png)
