@@ -19,7 +19,7 @@ This project attempts to generate stories from images. It achieves this by combi
 
 ### Report and Poster
 
-The report is uploaded [here](assets/Report.pdf), and a poster demonstrating the project is uploaded [here](assets/Poster.pdf). 
+The report is uploaded [here](assets/Report.pdf), and a poster demonstrating the project can be found [here](assets/Poster.pdf). 
 
 ### Sample Outputs
 
